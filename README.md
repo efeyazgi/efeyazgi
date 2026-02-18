@@ -41,7 +41,7 @@ Ben **Osmangazi Üniversitesi'nde Kimya Mühendisliği** ve **Anadolu Üniversit
 ## 🚀 Öne Çıkan Projeler
 
 ### 🧬 [Chem GO](https://github.com/efeyazgi/chem-go-web)
-Kimya alanında analiz ve deney yönetimi için geliştirilen web platformu. TypeScript ile yazılmış, mühendislik ekipleri için tasarlanmıştır.
+Chem GO Projesini tanıtma amacıyla geliştirilmiş web sitesi.
 
 ### 🏫 [OGÜ Bilgi Sistemi](https://github.com/efeyazgi/ogu_bilgi_sistemi)
 Eskişehir Osmangazi Üniversitesi öğrencilerine yönelik çok modüllü Flutter uygulaması.
